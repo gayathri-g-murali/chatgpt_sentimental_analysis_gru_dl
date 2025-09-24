@@ -1,2 +1,2 @@
-chatgpt_reviews.csv
-sentiment_model_gru_chatgpt.keras
+*.keras
+*.csv
